@@ -33,7 +33,7 @@ Als Nutzer sind Sie selbst dafür verantwortlich, die Einhaltung dieser Vorschri
 🚀 Erste Schritte
 Voraussetzungen
 
-    Ein Linux-basiertes Betriebssystem (getestet unter Ubuntu/Debian).
+    Ein Debian-basiertes Betriebssystem (entwickelt unter Linuxmint 21.3).
 
     sudo-Rechte zur Installation von Paketen.
 
