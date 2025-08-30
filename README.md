@@ -1,7 +1,7 @@
 AutoDocOrganizer
 
 Ein leistungsstarkes Shell-Skript zur automatischen Klassifizierung und Organisation von Dokumenten aus einem ZIP-Archiv mithilfe von KI. Das Skript extrahiert Text aus verschiedenen Dateitypen (PDFs, Word-Dokumente, Bilder usw.), klassifiziert jedes Dokument mithilfe der DeepSeek-API und sortiert sie in entsprechende Ordner.
-✨ Hauptfunktionen
+  Hauptfunktionen
 
     Automatische Kategorisierung: Nutzt ein KI-Sprachmodell (DeepSeek), um Dokumente intelligent in Kategorien wie Rechnung, Vertrag, Bericht usw. einzuordnen.
 
