@@ -31,6 +31,7 @@ Bitte beachten Sie: Dieses Skript sendet den extrahierten Textinhalt Ihrer Dokum
 Wenn Ihre Dokumente personenbezogene oder sensible Daten enthalten, unterliegt diese Datenübertragung den Bestimmungen der Datenschutz-Grundverordnung (DSGVO) oder anderen lokalen Datenschutzgesetzen.
 
 Als Nutzer sind Sie selbst dafür verantwortlich, die Einhaltung dieser Vorschriften sicherzustellen. Prüfen Sie vor der Verwendung des Skripts mit sensiblen Daten, ob die Datenschutzrichtlinien und Auftragsdatenverarbeitungs-Verträge von DeepSeek Ihren Anforderungen genügen. Ziehen Sie gegebenenfalls die Anonymisierung oder Schwärzung von Daten in Betracht.
+
 🚀 Erste Schritte
 Voraussetzungen
 
