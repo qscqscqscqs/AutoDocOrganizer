@@ -45,7 +45,7 @@ Installation
 
 Es ist keine manuelle Installation von Abhängigkeiten erforderlich. Das Skript kümmert sich um alles.
 
-    AutoDocOrganizer.sh-Datei
+    AutoDocOrganizer.sh-Datei Herunterladen
 
     Mache das Skript ausführbar:
 
