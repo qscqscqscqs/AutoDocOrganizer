@@ -158,14 +158,6 @@ Verarbeitungsmodus:     Parallel (8 Threads)
 ============================================================
 ```
 
-## 🏎️ Performance
-
-Die DeepSeek API hat **kein Ratenlimit**, was bedeutet:
-
-- **Sequenziell (Standard)**: Ca. 1-2 Dokumente pro Sekunde
-- **Parallel mit 10 Threads**: Ca. 8-10 Dokumente pro Sekunde
-- **Parallel mit 20 Threads**: Ca. 15-20 Dokumente pro Sekunde
-
 *Tatsächliche Geschwindigkeit hängt von Internetverbindung, Dateigröße und Systemleistung ab.*
 
 ## 🛠️ Fehlerbehandlung
