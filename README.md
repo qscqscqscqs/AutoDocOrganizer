@@ -158,8 +158,6 @@ Verarbeitungsmodus:     Parallel (8 Threads)
 ============================================================
 ```
 
-*Tatsächliche Geschwindigkeit hängt von Internetverbindung, Dateigröße und Systemleistung ab.*
-
 ## 🛠️ Fehlerbehandlung
 
 - **Automatische Wiederholungsversuche**: Bei API-Fehlern bis zu 3 Versuche mit exponentieller Wartezeit
