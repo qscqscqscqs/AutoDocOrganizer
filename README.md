@@ -178,11 +178,3 @@ Die DeepSeek API hat **kein Ratenlimit**, was bedeutet:
 ## 📜 Lizenz
 
 Dieses Projekt ist unter der Mozilla Public License 2.0 (MPL-2.0) lizenziert.
-
-## 🤝 Beiträge
-
-Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein Issue für Verbesserungsvorschläge.
-
-## 📞 Support
-
-Bei Problemen oder Fragen öffnen Sie bitte ein Issue auf GitHub.
